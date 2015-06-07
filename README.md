@@ -1,1 +1,1 @@
-<a href="https://github.com/Djaydar/resume.git">Страница</a>
+<a href="index.html">Страница</a>
