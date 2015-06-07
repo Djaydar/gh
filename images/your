@@ -5,7 +5,7 @@
 <title>Canvas</title>
 
 <canvas id="circle" width="1000" height="1000">
-    <p>??? ??????? ?? ???????????? ?????????.</p>
+    <p>Ваш браузер не поддерживает рисование</p>
   </canvas>
 
 <script>
@@ -23,9 +23,8 @@ function circle()
     obCanvas.stroke();
     obCanvas.fill();
 
-    //????????
     obCanvas.beginPath();
-    obCanvas.scale(1, 5); // ??????????? ?? ????????? ? 2 ????
+    obCanvas.scale(1, 5);
     obCanvas.strokeStyle = 'Lime'; 
     obCanvas.lineWidth = 5;
     obCanvas.arc(500, 75, 50, 0, Math.PI*2, true);
@@ -35,7 +34,6 @@ function circle()
     obCanvas.fill(); 
     obCanvas.stroke();
 
-    //????? ?????
     obCanvas.beginPath();
     obCanvas.scale(1, 1.3);
     obCanvas.lineWidth = 5;
@@ -76,7 +74,6 @@ function circle()
     obCanvas.stroke();
     obCanvas.fill();
 
-    //?????? ?????
     obCanvas.beginPath();
     obCanvas.scale(1, 1.3); 
     obCanvas.lineWidth = 5;
