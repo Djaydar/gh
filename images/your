@@ -5,7 +5,7 @@
 <title>Canvas</title>
 
 <canvas id="circle" width="1000" height="1000">
-    <p>Ваш браузер не поддерживает рисование</p>
+    <p>  </p>
   </canvas>
 
 <script>
