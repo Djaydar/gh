@@ -5,7 +5,7 @@
 <title>Canvas</title>
 
 <canvas id="circle" width="1000" height="1000">
-    <p>  </p>
+    <p>ррр </p>
   </canvas>
 
 <script>
